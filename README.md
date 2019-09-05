@@ -3,3 +3,5 @@
 ## Subtítulo 
 
 Curso de R de la PUC, actividad clase 2
+
+kjhaskjdhaskjdajkhs
